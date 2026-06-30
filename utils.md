@@ -1,0 +1,7 @@
+## Environnement
+```bash
+API_URL=
+JWT_SECRET=
+NEXT_PUBLIC_LOGIN_ROUTE=
+NEXT_PUBLIC_HOME_ROUTE=
+```
