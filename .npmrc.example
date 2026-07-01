@@ -1,4 +1,4 @@
 @thomasbsgr-jarvis:registry=https://npm.pkg.github.com
 //npm.pkg.github.com/:_authToken=TOKEN
 
-message="chore(release): %s [skip ci]"
+message="chore(release): %s"
